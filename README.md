@@ -2,4 +2,4 @@
 # Latihan-00 >> README.md
 echo # Latihan-00
 # Latihan 1
-# latihan bikin anak
+# ini file kedua ogud
